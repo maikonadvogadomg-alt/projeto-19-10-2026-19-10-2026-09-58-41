@@ -1,0 +1,24 @@
+{
+  "titulo": "Projeto 19-10-2026 19-10-2026, 09-58-41",
+  "arquivo": "index.html",
+  "itens": [
+    {
+      "path": "playground/index.html",
+      "nome": "ProjetoLens — Analisador de Projetos",
+      "desc": "",
+      "on": false,
+      "icone": "playground/icons/icon-192.png"
+    },
+    {
+      "path": "playground/laboratorio-projetolens (cópia).html",
+      "nome": "ProjetoLens — Analisador de Projetos",
+      "desc": "",
+      "on": true,
+      "icone": "playground/icons/icon.svg"
+    }
+  ],
+  "sub": "",
+  "logo": "",
+  "tema": "escuro",
+  "links": []
+}
