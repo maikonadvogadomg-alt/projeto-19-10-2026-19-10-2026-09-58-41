@@ -1,0 +1,12 @@
+{
+  "name": "projeto-19-10-2026-19-10-2026-09-58-41",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {},
+  "dependencies": {
+    "@electron/get": "^5.1.0",
+    "electron": "^44.9.0",
+    "electron-vite": "^6.0.0"
+  }
+}
