@@ -1,14 +1,14 @@
 {
-  "name": "Projeto 19-10-2026 19-10-2026, 09-58-41",
-  "short_name": "Projeto 19-1",
+  "name": "projeto-19-10-2026-19-10-2026-09-58-41",
+  "short_name": "projeto-19-1",
   "description": "Projeto 19-10-2026 19-10-2026, 09-58-41",
   "id": "./app-projeto-19-10-2026-19-10-2026-",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
   "orientation": "any",
-  "background_color": "#0f1420",
-  "theme_color": "#0f1420",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
   "lang": "pt-BR",
   "dir": "ltr",
   "icons": [
